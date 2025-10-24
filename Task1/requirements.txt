@@ -1,0 +1,10 @@
+streamlit
+tensorflow>=2.10
+opencv-python
+Pillow
+numpy
+langdetect
+transformers
+torch
+sentencepiece
+tqdm
